@@ -5,12 +5,12 @@ First R markdown Assignment in Github
 ## Finding the assignment on GitHub
 
 Git is a powerful tool for tracking the development of your code and working collaboratively with carefully controlled versioning.
-We will complete assignments in GitHub Classroom so that we can easily provide feedback on code, work in teams, and eventually host our dashboard.
+We will complete assignments in GitHub Classroom to easily provide feedback on code, work in teams, and eventually host our dashboard.
 I recommend setting up Git in your RStudio to familiarize you with protocols. 
 
 A complete [guide for students using GitHub Classroom](https://github.com/jfiksel/github-classroom-for-students) is available. Please complete steps 1-6 before attempting to clone the assignment. Considering that you face challenges when using your personal computer, you may complete the assignment with JupyterHub without tracking in Git with the expectation you ask for help to resolve the issues.
 
-[![A screenshot of the document](https://https://img.youtu.co,/ZjyR_dDMyLU)/0.jpg](https://www.youtube.com/watch?v=ZjyR_dDMyLU)
+[![A screenshot of the document](https://https://img.youtu.co,/ZjyR_dDMyLU/0.jpg)](https://www.youtube.com/watch?v=ZjyR_dDMyLU)
 
 To begin, you will want to make sure you have a GitHub account and have successfully installed R and R Studio. When signing up, I'd prefer your username is similar to your name in Canvas so I can identify you. You may run into security issues regarding HTTPS or SSH protocols. For this course, SSH is preferred. If issues occur, contact the instructor for additional support since it is common to have errors here. 
 Continue to follow the instructions and ask for help if you face difficulties accessing the terminal or website.
