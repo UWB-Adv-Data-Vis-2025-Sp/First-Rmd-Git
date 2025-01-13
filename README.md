@@ -10,9 +10,7 @@ I recommend setting up Git in your RStudio to familiarize you with protocols.
 
 A complete [guide for students using GitHub Classroom](https://github.com/jfiksel/github-classroom-for-students) is available. Please complete steps 1-6 before attempting to clone the assignment. Considering that you face challenges when using your personal computer, you may complete the assignment with JupyterHub without tracking in Git with the expectation you ask for help to resolve the issues.
 
-<div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZjyR_dDMyLU?si=2-t7LOSxO-av-j67" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+Video orienting users to Happy Git for R [https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=ZjyR_dDMyLU)
 
 First, please ensure you have a GitHub account and have successfully installed R and R Studio. When signing up, I'd prefer your username to be similar to your name in Canvas so I can identify you. You may run into security issues regarding HTTPS or SSH protocols. For this course, SSH is preferred. If you have any problems, please don't hesitate to contact the instructor for additional support since errors are common here. 
 Please follow the instructions and ask for help if you have problems accessing the terminal or website.
